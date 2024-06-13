@@ -55,8 +55,8 @@
     "bfyjiequhou": "猜你喜欢",
     "bfyjiequshuzuqian": "<a",
     "bfyjiequshuzuhou": "/a>",
-    "bfbiaotiqian": "title=\"",
-    "bfbiaotihou": "\"",
+    "bfbiaotiqian": ">",
+    "bfbiaotihou": "<",
     "bflianjieqian": "href=\"",
     "bflianjiehou": "\""
 }
