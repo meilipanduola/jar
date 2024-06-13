@@ -1,19 +1,20 @@
 // url变更、分类 ++
 {
-  "name": "在线之家",
-  "url": "https://zxzj.vip",
+    "name": "在线之家",
+   "url": "https://www.zxzja.com/",
+    "发布页": "www.zxzj.site",
   "User": "空",
   "shouye": "1",
   
-  //"fenlei": "电影$/list/1-#美剧$/list/2-#韩剧$/list/3-#日剧$/list/4-#泰剧$/list/5-#动漫$/list/6-",
-  "fenlei": "电影$/vodshow/1--------#美剧$/vodshow/2--------#韩剧$/vodshow/3--------#日剧$/vodshow/4--------#泰剧$/vodshow/5--------#动漫$/vodshow/6--------#动画片$/vodshow/1---动画-----#喜剧片$/vodshow/1---喜剧-----#爱情片$/vodshow/1---爱情-----#恐怖片$/vodshow/1---恐怖-----#动作片$/vodshow/1---动作-----#科幻片$/vodshow/1---科幻-----#剧情片$/vodshow/1---剧情-----#战争片$/vodshow/1---战争-----#警匪片$/vodshow/1---警匪-----#犯罪片$/vodshow/1---犯罪-----#奇幻片$/vodshow/1---奇幻-----#冒险片$/vodshow/1---冒险-----",
-  "houzhui": "---.html",
+  "fenlei": "电影$/list/1-#美剧$/list/2-#韩剧$/list/3-#日剧$/list/4-#泰剧$/list/5-#动漫$/list/6-",
+  //"fenlei": "电影$/vodshow/1--------#美剧$/vodshow/2--------#韩剧$/vodshow/3--------#日剧$/vodshow/4--------#泰剧$/vodshow/5--------#动漫$/vodshow/6--------#动画片$/vodshow/1---动画-----#喜剧片$/vodshow/1---喜剧-----#爱情片$/vodshow/1---爱情-----#恐怖片$/vodshow/1---恐怖-----#动作片$/vodshow/1---动作-----#科幻片$/vodshow/1---科幻-----#剧情片$/vodshow/1---剧情-----#战争片$/vodshow/1---战争-----#警匪片$/vodshow/1---警匪-----#犯罪片$/vodshow/1---犯罪-----#奇幻片$/vodshow/1---奇幻-----#冒险片$/vodshow/1---冒险-----",
+  "houzhui": ".html",
   
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  "jiequshuzuqian": "class=\"stui-vodlist__box",
-  "jiequshuzuhou": "</li>",
+  "jiequshuzuqian": "stui-vodlist clearfix",
+  "jiequshuzuhou": "上一页",
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
@@ -60,13 +61,13 @@
   "juqingqian": "style=\"display: none;\">",
   "juqinghou": "</span",
   
-  "bfyshifouercijiequ": "0",
-  "bfyjiequqian": "空",
-  "bfyjiequhou": "空",
-  "bfyjiequshuzuqian": "<li",
-  "bfyjiequshuzuhou": "</li>",
-  "bfbiaotiqian": "\">",
-  "bfbiaotihou": "</a>",
+  "bfyshifouercijiequ": ",
+  "bfyjiequqian": "立即播放",
+  "bfyjiequhou": "猜你喜欢",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": "title=\"",
+  "bfbiaotihou": "\"",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
 }
