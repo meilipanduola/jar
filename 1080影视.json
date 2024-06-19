@@ -7,7 +7,7 @@
     "fenlei": "电影$/vodtype/1-#国产剧$/vodtype/2-#综艺$/vodtype/20-#动漫$/vodtype/3-",
     "houzhui": ".html",
     "shifouercijiequ": "1",
-    "jiequqian": "stui-vodlist clearfix",
+    "jiequqian": "stui-vodlist",
     "jiequhou": "上一页",
     "jiequshuzuqian": "<a class=",
     "jiequshuzuhou": "</div>",
