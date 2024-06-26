@@ -55,8 +55,8 @@
     "bfyjiequhou": "module-adslist module-wrapper",
     "bfyjiequshuzuqian": "<a",
     "bfyjiequshuzuhou": "/a>",
-    "bfbiaotiqian": "title=\"",
-    "bfbiaotihou": "\"",
+    "bfbiaotiqian": "<span>",
+    "bfbiaotihou": "</span>",
     "bflianjieqian": "href=\"",
     "bflianjiehou": "\""
 }
