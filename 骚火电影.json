@@ -1,7 +1,7 @@
 // 修复 Playlist
 {
-  "name": "骚火电影",
-  "url": "https://shdy2.com",
+  "name": "火火电影",
+  "url": "https://saohuo.tv",
   "发布页": "http://shapp.us/",
   "User": "空",
   "shouye": "1",
@@ -52,10 +52,10 @@
   "bfjiequshuzuqian": "<li",
   "bfjiequshuzuhou": "/li>",
   
-  "zhuangtaiqian": "h1><p>",
-  "zhuangtaihou": "/ 导演",
+  "zhuangtaiqian": "</h1><p>",
+  "zhuangtaihou": "导演",
   "daoyanqian": "导演：",
-  "daoyanhou": "/ 主演",
+  "daoyanhou": "主演",
   "zhuyanqian": "主演：",
   "zhuyanhou": "</p>",
   "juqingqian": "show_part\">",
